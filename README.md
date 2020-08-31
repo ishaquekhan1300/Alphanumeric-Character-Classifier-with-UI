@@ -2,7 +2,7 @@ Alphanumeric Character Classifier
 
 This project uses a subset of the HASYv2 dataset which can be found here: https://github.com/sumit-kothari/AlphaNum-HASYv2
 
-**model_config.py:**
+**model_config.py**
 
 Used to compare two different network architectures to determine which one performs better, runs a specified number of trials as follows:
 1. Construct both models
